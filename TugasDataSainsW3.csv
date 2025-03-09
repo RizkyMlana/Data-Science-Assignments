@@ -1,0 +1,201 @@
+Customer_Name;Product;Price;Discount;Quantity;Total_Price;Transaction_Date;Birth_Date;Location;Payment_Method
+CHARLES EDWARDS;Tablet;8717207;5.0;2;16.562.693.299.999.900;01/12/2025;18/06/2001;Jakarta;Cash on Delivery
+tiffany williams;Smartwatch;1566449;0.0;1;1566449.0;31/12/2024;18/07/2002;Surabaya;Cash on Delivery
+Edward Shepherd;Camera;18785201;15.0;2;31934841.7;23/11/2024;12/11/2001;;PayPal
+WAYNE SIMS;Smartphone;14680586;10.0;3;39637582.2;02/10/2024;29/01/2003;Surabaya;PayPal
+julie wolf;Smartwatch;3745263;10.0;3;10112210.1;04-19-2024;;Bandung;Credit Card
+Brandy Boyd;Smartwatch;3144095;20.0;3;7545828.0;12/02/2024;30/05/1965;Medan;PayPal
+Diane Benitez;Laptop;8146997;10.0;1;7332297.3;17/05/2024;02/03/1979;Jakarta;
+ryan briggs;Camera;12741736;5.0;3;36313947.6;27/04/2024;01/07/1993;Surabaya;PayPal
+James Stone;Laptop;6242460;20.0;2;9987936.0;26/07/2024;12/01/1966;Yogyakarta;
+diamond wade;Camera;19188132;5.0;3;;02/03/2024;;Surabaya;Credit Card
+Morgan Porter;Laptop;7579409;20.0;3;18190581.6;03/03/2024;25/11/1994;Denpasar;Bank Transfer
+Aaron Casey;Smartwatch;5293975;10.0;2;9529155.0;04/11/2024;11/07/1996;Denpasar;Cash on Delivery
+Zachary Davis;Smartwatch;13901657;10.0;2;25022982.6;29/11/2024;15/10/1973;Medan;
+edward kennedy;Laptop;4179214;5.0;2;7940506.6;02/09/2025;12/08/1998;Yogyakarta;Cash on Delivery
+heather montgomery;Smartwatch;16205148;20.0;3;38892355.2;03-15-2024;09/09/1987;;Credit Card
+Carolyn Harrington;Tablet;11914394;;3;35743182.0;28/01/2025;29/04/1970;Surabaya;Bank Transfer
+john donovan;Camera;9337869;20.0;2;14940590.4;06-27-2024;17/03/1996;Jakarta;PayPal
+James Ward;Smartphone;5628434;10.0;2;;01-30-2025;21/11/2001;Medan;Credit Card
+Steven Li;Laptop;12679613;10.0;2;;09/02/2025;27/11/1967;Surabaya;Cash on Delivery
+STEPHEN HARDING;Smartwatch;2822386;20.0;2;;04/12/2024;08/07/1975;;Bank Transfer
+LANCE LUTZ;Headphones;14698153;5.0;5;69816226.75;08-20-2024;09/05/1999;Denpasar;Debit Card
+Samuel Chapman;Camera;13029912;15.0;5;55377126.0;08/06/2024;29/11/1985;Jakarta;
+cole holloway;Tablet;1205792;20.0;5;4823168.0;29/03/2024;20/01/1993;Medan;Debit Card
+pamela deleon;Camera;2475475;5.0;1;2351701.25;04/08/2024;19/09/1965;Bandung;Credit Card
+DAWN OLIVER;Smartwatch;7688594;20.0;2;12301750.4;07-20-2024;11/05/1975;Medan;
+Mary Bennett;Smartwatch;6889096;0.0;1;6889096.0;06-22-2024;11/10/1964;Yogyakarta;PayPal
+Wendy Harris;Camera;2317683;0.0;1;2317683.0;01/01/2025;19/06/2004;;PayPal
+ANDREW HOLDER;Smartphone;6882351;20.0;4;22.023.523.200.000.000;06/05/2024;11/04/2000;Yogyakarta;Debit Card
+barbara mann;Smartphone;3029497;15.0;5;12875362.25;11/12/2024;18/10/1978;Jakarta;Cash on Delivery
+Matthew Butler;Smartphone;6080474;15.0;4;20.673.611.599.999.900;03/06/2024;05/04/1985;Surabaya;Bank Transfer
+AMANDA BRIDGES;Laptop;13600380;;4;48961368.0;16/11/2024;28/06/1998;Yogyakarta;Cash on Delivery
+Jaime Johnson;Smartphone;10455862;5.0;1;9933068.9;05/09/2024;07/03/1990;Denpasar;Cash on Delivery
+cheryl molina;Tablet;2418148;0.0;5;12090740.0;08/05/2024;17/03/1981;Medan;Cash on Delivery
+veronica dunlap;Headphones;3188094;5.0;1;3028689.3;06-19-2024;;Jakarta;Debit Card
+Gregory Jackson;Headphones;8761616;20.0;5;35046464.0;31/08/2024;02/07/2004;Medan;Credit Card
+Pamela Mcintosh;Headphones;11115610;10.0;2;20008098.0;01-13-2025;11/02/2001;Denpasar;PayPal
+daniel sanchez;Smartwatch;4891546;10.0;4;17609565.6;17/06/2024;01/07/1992;Jakarta;Credit Card
+Peter Sanders;Laptop;2958221;20.0;2;4.733.153.600.000.000;06-25-2024;16/11/1977;;Debit Card
+Maria Walsh;Smartphone;12899271;10.0;2;23218687.8;03/09/2024;27/07/2000;Medan;PayPal
+Maria Brown;Camera;18248304;0.0;5;91241520.0;27/01/2025;10/01/1990;Denpasar;Credit Card
+RICHARD HAYNES;Laptop;4091531;20.0;2;6.546.449.600.000.000;06/03/2024;11/10/1968;;Cash on Delivery
+matthew gonzalez;Tablet;7331592;10.0;5;32992164.0;03/12/2024;03/05/2004;Bandung;
+shane morrison;Smartwatch;9783847;0.0;1;9783847.0;11/11/2024;17/11/1981;Surabaya;PayPal
+lucas bentley;Smartwatch;19011323;15.0;5;80798122.75;10/09/2024;03/12/1976;Jakarta;Credit Card
+John Benton;Smartphone;18806972;0.0;3;56420916.0;12/03/2024;10/02/1979;Medan;Debit Card
+SHAWN LAWRENCE;Tablet;1838649;;2;3309568.2;06-19-2024;05/05/1999;Surabaya;Credit Card
+Richard Wallace;Smartwatch;5685949;5.0;2;10803303.1;04/02/2025;11/08/1998;Yogyakarta;Credit Card
+kimberly mitchell;Tablet;14314801;5.0;3;40797182.85;18/03/2024;11/08/1973;Denpasar;Credit Card
+CHRISTOPHER WALKER;Smartwatch;7963637;5.0;4;30.261.820.599.999.900;25/02/2025;29/05/1993;Bandung;Debit Card
+tommy turner;Camera;6980360;15.0;3;17799918.0;12/09/2024;23/07/1988;;PayPal
+Charles Hughes;Camera;18492414;10.0;1;16643172.6;25/11/2024;25/04/1978;Bandung;Debit Card
+Jessica Stevenson;Laptop;4137385;20.0;4;13239632.0;10/07/2024;30/04/1998;Denpasar;PayPal
+Stephanie Mathews;Laptop;13425013;20.0;2;21480020.8;01/04/2024;30/03/1985;Jakarta;Bank Transfer
+oscar robinson;Headphones;7111401;10.0;4;25601043.6;21/04/2024;20/05/1989;Denpasar;PayPal
+Lisa Watson;Laptop;10577143;20.0;3;25.385.143.200.000.000;10-22-2024;27/02/2001;Yogyakarta;PayPal
+SCOTT DAVIS;Smartphone;6937085;15.0;4;23586089.0;10-15-2024;07/05/1977;Denpasar;Debit Card
+James Thomas;Headphones;513621;;3;1386776.7;02/11/2024;29/11/1971;;Cash on Delivery
+Brooke Singh;Smartwatch;15336420;5.0;5;72847995.0;04/03/2024;25/12/2003;Denpasar;Debit Card
+OMAR WEBB;Camera;11747051;0.0;2;23494102.0;03/09/2024;29/05/2005;Bandung;Debit Card
+JANET SUAREZ;Laptop;8715552;15.0;5;37041096.0;24/12/2024;27/11/1975;Yogyakarta;Bank Transfer
+Amber Simpson;Camera;13384179;15.0;4;45506208.6;08/12/2024;08/12/1971;Surabaya;Credit Card
+Sharon Norris;Laptop;14765539;5.0;2;28.054.524.099.999.900;09-30-2024;23/04/1986;Medan;Bank Transfer
+catherine sherman;Smartphone;4572118;15.0;2;7772600.6;03/12/2024;23/07/1986;Denpasar;Cash on Delivery
+David Edwards;Smartwatch;17437544;15.0;5;74109562.0;20/05/2024;11/08/1988;Surabaya;
+Edwin Camacho;Camera;9805024;20.0;4;31376076.8;01-27-2025;29/11/1998;Surabaya;PayPal
+Christine Brennan;Smartphone;9617246;10.0;3;25966564.2;04-24-2024;;;
+manuel novak;Smartwatch;5627293;;1;5345928.35;11/03/2024;30/07/1977;Yogyakarta;
+Patricia Pierce;Smartphone;14597677;15.0;5;62040127.25;04-29-2024;02/03/2000;Jakarta;
+CHAD SCHWARTZ;Tablet;10519777;;4;35767241.8;09-14-2024;24/10/1969;Denpasar;Cash on Delivery
+Angela Dougherty;Smartwatch;7862568;;4;28305244.8;07/02/2025;16/04/1998;Jakarta;Bank Transfer
+Shane Washington;Smartwatch;6037982;15.0;2;10264569.4;09-25-2024;;Medan;
+William Diaz;Camera;1409393;0.0;4;5637572.0;27/07/2024;16/10/2000;Yogyakarta;Debit Card
+kathy stephens;Smartwatch;11484132;5.0;4;43639701.6;03/10/2024;01/02/1997;Bandung;Bank Transfer
+olivia thomas;Smartwatch;8964827;0.0;4;35859308.0;02/10/2024;23/09/1973;Denpasar;Cash on Delivery
+andrea oconnor;Tablet;8023647;0.0;1;8023647.0;25/07/2024;04/06/1974;Surabaya;Debit Card
+Alice Beltran;Smartphone;4735273;15.0;1;4024982.05;02/10/2025;03/12/1971;Surabaya;Bank Transfer
+Michael Foster;Smartphone;4343085;5.0;3;12377792.25;26/11/2024;;Medan;Credit Card
+Richard Oneal;Smartwatch;13809514;5.0;1;13.119.038.299.999.900;11-20-2024;29/03/1974;Denpasar;Debit Card
+maurice delgado;Tablet;4561933;;1;36.495.464.000.000.000;07/11/2024;15/06/1980;;Bank Transfer
+GRACE DAVIS;Camera;11949818;0.0;4;47799272.0;15/12/2024;09/02/2000;Jakarta;Bank Transfer
+Lance Hubbard;Smartwatch;5633531;15.0;2;9577002.7;09-19-2024;;Medan;PayPal
+Sue Morse;Smartwatch;16098575;15.0;5;68418943.75;10/03/2024;30/12/1973;Bandung;Debit Card
+MICHAEL WOOD;Smartwatch;8682699;;5;36901470.75;03/04/2024;;;Bank Transfer
+Matthew Davis;Tablet;6601533;15.0;2;11222606.1;21/04/2024;12/04/1968;Bandung;PayPal
+suzanne smith;Headphones;9770035;20.0;1;7816028.0;01-29-2025;17/01/2001;Surabaya;Credit Card
+barbara clark;Smartwatch;16893952;20.0;2;27.030.323.200.000.000;09/10/2024;05/04/1982;Yogyakarta;Bank Transfer
+MARILYN MERRITT;Tablet;7935541;15.0;2;13490419.7;06/10/2024;25/09/2006;Denpasar;Cash on Delivery
+Karen Patterson;Tablet;14777538;20.0;3;35466091.2;04/12/2024;13/02/1978;Denpasar;Bank Transfer
+patricia mccarty;Tablet;8235573;0.0;2;16471146.0;21/07/2024;;Jakarta;Cash on Delivery
+Steven Hester;Smartphone;7760663;15.0;3;19789690.65;08-28-2024;06/05/2006;Medan;Cash on Delivery
+Jordan Wiggins;Smartphone;10440381;5.0;3;29.755.085.849.999.900;03/11/2024;21/06/1974;Bandung;Credit Card
+RICHARD BROWN;Laptop;2329589;20.0;3;5.591.013.600.000.000;10-30-2024;24/08/1994;Surabaya;Bank Transfer
+lindsey schmidt;Laptop;19762398;10.0;4;71144632.8;16/07/2024;03/11/1970;Yogyakarta;PayPal
+joe harris;Laptop;8971768;15.0;1;7626002.8;29/09/2024;09/01/2004;Yogyakarta;Bank Transfer
+melissa smith;Camera;2298822;5.0;2;4367761.8;12/06/2024;20/03/2002;Bandung;Credit Card
+HEATHER BENNETT;Smartwatch;8072803;;4;25832969.6;13/12/2024;15/04/1986;Yogyakarta;PayPal
+Dawn Jackson;Tablet;19580038;20.0;1;15664030.4;06/02/2024;18/12/2000;;Credit Card
+CALVIN BARNES;Smartphone;9380050;0.0;2;18760100.0;06/03/2024;25/07/1982;Surabaya;Cash on Delivery
+jessica jackson;Laptop;14207575;15.0;5;60382193.75;13/01/2025;14/06/1997;Bandung;Credit Card
+matthew lester;Camera;9986454;15.0;1;8488485.9;07-17-2024;24/06/1981;Surabaya;PayPal
+Kathy Craig;Camera;7137711;15.0;1;6067054.35;08/06/2024;29/10/1965;Surabaya;Debit Card
+Stephanie Martinez;Laptop;2501120;5.0;3;7128192.0;03/01/2024;20/03/1976;Denpasar;Cash on Delivery
+Brittany Holloway;Smartwatch;10703607;15.0;3;27.294.197.849.999.900;09-30-2024;;Medan;Bank Transfer
+Christopher Jenkins;Smartwatch;11315317;20.0;3;27156760.8;20/07/2024;06/11/1982;Jakarta;Debit Card
+Deborah Flynn;Headphones;1196101;10.0;5;5382454.5;14/05/2024;;Surabaya;Bank Transfer
+Meghan Rice;Tablet;6589765;20.0;4;21087248.0;09/05/2024;03/01/1995;Yogyakarta;Credit Card
+Carlos Young;Tablet;4009789;5.0;3;11427898.65;09/05/2024;07/06/1988;Denpasar;Bank Transfer
+stephanie bell;Smartwatch;18958179;0.0;4;75832716.0;27/05/2024;;Bandung;PayPal
+Jeffrey Richardson;Smartwatch;17766984;0.0;5;88834920.0;30/05/2024;04/12/1981;;Credit Card
+raymond scott;Tablet;17226652;15.0;1;14642654.2;02/10/2024;12/06/1967;;Cash on Delivery
+brandy aguilar;Tablet;15200736;15.0;1;12920625.6;01/09/2024;24/04/1986;Denpasar;Cash on Delivery
+Anna Cole;Tablet;18983090;0.0;5;94915450.0;07/05/2024;24/10/1988;Jakarta;Debit Card
+Elizabeth Walton;Smartwatch;4441509;5.0;4;16877734.2;03/01/2025;07/01/1979;Bandung;Cash on Delivery
+Susan Poole;Smartwatch;16345066;5.0;4;62111250.8;09/10/2024;27/03/1975;Surabaya;Bank Transfer
+anthony davis;Headphones;17553734;5.0;1;16.676.047.299.999.900;05/11/2024;01/10/1979;Yogyakarta;PayPal
+John Mcdaniel;Laptop;9990501;;5;44957254.5;01/07/2025;10/04/1976;Denpasar;
+Shane Greene;Smartwatch;12080437;10.0;5;54361966.5;11-24-2024;09/04/1983;Yogyakarta;Bank Transfer
+Jonathan Johnson;Camera;8512984;20.0;4;27241548.8;05/12/2024;25/03/1983;Yogyakarta;Credit Card
+Kevin Snyder;Smartwatch;13454653;5.0;4;51127681.4;01/02/2025;21/02/1982;Surabaya;Cash on Delivery
+Stephen Gonzalez;Laptop;15274224;0.0;5;76371120.0;25/12/2024;23/08/2000;Jakarta;Debit Card
+Randall Morse;Smartphone;3010819;15.0;3;7677588.45;21/02/2025;04/10/1965;Medan;Bank Transfer
+Joseph Webb;Camera;18405393;15.0;3;46933752.15;06/11/2024;;Denpasar;Bank Transfer
+DEREK MARTINEZ;Laptop;8377582;10.0;2;15079647.6;03/08/2024;18/02/1998;;Bank Transfer
+Thomas Shaffer;Camera;3872463;15.0;2;6583187.1;05-27-2024;28/08/1982;Bandung;Credit Card
+ryan juarez;Laptop;10343789;10.0;3;27928230.3;04/01/2025;;Surabaya;Debit Card
+Dawn Campbell;Smartphone;6203704;5.0;1;5893518.8;01-24-2025;19/12/1990;Yogyakarta;Cash on Delivery
+Amber Brooks;Headphones;5302233;5.0;4;20148485.4;06-29-2024;;Bandung;Bank Transfer
+jeffrey byrd;Laptop;16111308;10.0;5;72500886.0;28/02/2025;10/03/1981;Jakarta;Bank Transfer
+Kathryn Delgado;Tablet;14737445;;4;53054802.0;12/02/2025;19/02/1973;Surabaya;
+SAMUEL CONNER;Smartwatch;19690541;10.0;5;88607434.5;14/10/2024;22/09/2004;Denpasar;PayPal
+christopher wiley;Camera;13781036;10.0;1;12402932.4;11/02/2024;10/06/1971;Denpasar;Credit Card
+Katherine Reed;Tablet;8221491;20.0;3;19.731.578.400.000.000;13/09/2024;09/05/2000;Denpasar;Debit Card
+Ernest Coleman;Camera;5089549;0.0;1;5089549.0;12/02/2025;07/09/1971;Yogyakarta;
+Rebecca Johnson;Laptop;10402263;10.0;4;37.448.146.800.000.000;03/07/2024;03/10/1976;Surabaya;Debit Card
+Megan Jones;Tablet;18312449;20.0;3;43949877.6;29/11/2024;27/10/1976;Bandung;
+BRIANNA GREEN;Tablet;4364454;15.0;1;3709785.9;24/04/2024;;;Bank Transfer
+Maria Smith;Tablet;3530061;15.0;1;3000551.85;21/02/2025;09/10/1971;Medan;Credit Card
+Eddie Davis;Camera;9296677;20.0;4;29.749.366.400.000.000;02/05/2025;23/03/1966;Bandung;Credit Card
+Kerry Walters;Headphones;19337705;10.0;5;87019672.5;22/08/2024;20/11/2002;Denpasar;
+Megan Gibbs;Camera;10639819;15.0;1;9043846.15;03/07/2024;04/06/1989;Jakarta;Credit Card
+Robert Ferguson;Laptop;8378581;20.0;2;13.405.729.600.000.000;06/02/2025;25/12/1968;Yogyakarta;PayPal
+Shawn Mason;Headphones;14563560;20.0;2;23301696.0;13/11/2024;20/11/1985;Denpasar;Credit Card
+Nicholas Osborn;Tablet;1597776;10.0;2;28.759.968.000.000.000;27/04/2024;13/04/1972;Yogyakarta;Debit Card
+COREY PEREZ;Camera;12825715;20.0;3;30781716.0;04/01/2025;11/03/1982;Yogyakarta;PayPal
+todd johnson;Laptop;15757783;0.0;2;31515566.0;09-26-2024;16/06/2006;Denpasar;
+CHRISTINA GREER;Tablet;8672815;5.0;5;41195871.25;19/07/2024;20/03/1994;Jakarta;Cash on Delivery
+jessica davis;Smartphone;8318138;10.0;2;14972648.4;01/01/2025;01/07/1985;Jakarta;PayPal
+KIMBERLY MOORE;Smartphone;18626622;10.0;2;33527919.6;05/04/2024;14/08/1994;Denpasar;Credit Card
+jessica farrell;Tablet;8483659;20.0;3;20360781.6;19/02/2025;29/11/2004;Surabaya;PayPal
+diana galloway;Camera;14625092;20.0;1;11.700.073.600.000.000;09/04/2024;08/07/1981;Jakarta;Bank Transfer
+Jennifer Boyer;Headphones;4159245;15.0;5;17676791.25;08/11/2024;30/05/2002;Medan;Credit Card
+Rhonda Hensley;Camera;17996999;10.0;4;64789196.4;06/03/2024;31/08/1964;Jakarta;Credit Card
+Ronald Lopez;Smartwatch;4122597;;4;14.016.829.799.999.900;18/11/2024;12/04/1977;Jakarta;PayPal
+JOSE BAUER;Tablet;18899788;10.0;4;68039236.8;03-31-2024;20/09/2000;Medan;PayPal
+Jessica Avery;Laptop;4339099;20.0;2;6942558.4;27/05/2024;07/06/1964;Yogyakarta;Debit Card
+Anna Clark;Smartwatch;14458296;0.0;3;43374888.0;23/02/2025;02/09/1991;Bandung;PayPal
+SANDRA BROOKS;Smartwatch;2752620;0.0;1;2752620.0;14/08/2024;26/10/1967;Yogyakarta;Credit Card
+Bryan Nguyen;Smartphone;19168704;0.0;5;95843520.0;08-18-2024;26/04/1970;Medan;PayPal
+Patrick Peterson;Camera;14691405;;3;44074215.0;11/12/2024;13/02/2005;Bandung;PayPal
+jon leonard;Headphones;7638329;5.0;4;29025650.2;14/11/2024;20/05/1997;Jakarta;PayPal
+Kayla Santos;Tablet;19763599;5.0;4;75101676.2;06-17-2024;20/12/1967;;Cash on Delivery
+David Robinson;Headphones;9474056;0.0;2;18948112.0;15/08/2024;;Denpasar;PayPal
+Angela Martin;Smartphone;5306722;20.0;4;16.981.510.400.000.000;23/09/2024;14/02/1975;Surabaya;Credit Card
+gabrielle johnson;Headphones;7718661;15.0;4;26243447.4;15/11/2024;08/05/1966;Bandung;Debit Card
+Lauren Nixon;Headphones;3350685;0.0;2;6701370.0;03/07/2024;28/02/1983;Medan;Credit Card
+DANIEL MARTINEZ;Camera;14727574;;5;62592189.5;19/07/2024;06/06/1967;Yogyakarta;PayPal
+christine watkins;Headphones;4319081;10.0;4;15548691.6;03/12/2024;18/01/1997;;Cash on Delivery
+Michael Johnston;Laptop;7899370;15.0;5;33572322.5;01/03/2024;12/09/2003;Jakarta;Debit Card
+SARAH ANDERSON;Smartphone;9073811;10.0;3;24499289.7;09/10/2024;;Jakarta;Bank Transfer
+JENNIFER TURNER;Smartwatch;18370498;5.0;5;87259865.5;06/07/2024;10/06/1993;Denpasar;PayPal
+theresa reeves;Camera;1919428;;1;1631513.8;25/10/2024;24/03/1969;Jakarta;PayPal
+Rebekah Lawrence;Camera;14515483;10.0;1;13.063.934.700.000.000;27/02/2025;18/06/1968;Jakarta;PayPal
+gloria marshall;Headphones;15938290;10.0;1;14344461.0;12/10/2024;25/10/1975;Jakarta;Debit Card
+Jacqueline Adkins;Laptop;13779726;10.0;3;37205260.2;22/05/2024;14/12/1976;Bandung;Debit Card
+stephen bell;Camera;4326099;;5;17304396.0;21/01/2025;01/04/1978;Bandung;PayPal
+Sherri Zavala;Smartphone;8427867;0.0;2;16855734.0;07/03/2024;19/04/2002;;
+Rachel Lane;Camera;3028436;5.0;4;11.508.056.799.999.900;22/02/2025;;Medan;Cash on Delivery
+Elizabeth Mueller;Headphones;11345068;;2;20.421.122.400.000.000;07/10/2024;18/07/1971;Jakarta;Bank Transfer
+Sarah Phillips;Tablet;2384823;10.0;5;10731703.5;28/08/2024;02/12/1972;Bandung;Bank Transfer
+JENNIFER TAYLOR;Tablet;3074665;0.0;5;15373325.0;10-25-2024;25/06/1969;Medan;Bank Transfer
+Chelsea Olson;Camera;1876493;15.0;5;7975095.25;08/10/2024;;Surabaya;PayPal
+Donald Martinez;Laptop;15617047;0.0;3;46851141.0;12-26-2024;14/07/1988;Jakarta;Cash on Delivery
+WENDY PALMER;Camera;15188730;;5;64552102.5;12/02/2024;12/01/1966;Medan;Debit Card
+Alexis Jenkins;Smartwatch;14216024;10.0;5;63972108.0;13/07/2024;20/09/2002;Denpasar;PayPal
+nathan rowland;Laptop;19222138;15.0;3;49016451.9;07/07/2024;11/03/1966;Denpasar;Cash on Delivery
+Kevin Decker;Headphones;5245548;10.0;3;14162979.6;04-21-2024;12/02/1971;Denpasar;Bank Transfer
+janet weber;Camera;3342698;;5;15042141.0;11/05/2024;24/04/1986;Denpasar;
+Margaret Mejia;Camera;18162829;0.0;4;72651316.0;08-29-2024;03/06/1986;Bandung;Credit Card
+TREVOR MURPHY;Smartphone;11966634;15.0;2;20343277.8;03/05/2024;11/03/1999;Surabaya;Debit Card
+alyssa johnson;Laptop;17535239;20.0;5;70140956.0;06/10/2024;27/03/1982;Denpasar;PayPal
+Evan Rivas;Headphones;13140621;5.0;2;24967179.9;16/10/2024;25/12/1996;Denpasar;Cash on Delivery
+MARIO LEE;Smartwatch;1966074;15.0;3;5013488.7;10/07/2024;23/03/1986;Denpasar;Debit Card
+William Hutchinson;Camera;15563522;5.0;5;73926729.5;25/07/2024;14/03/1979;Bandung;Bank Transfer
+SAMANTHA KIRBY;Camera;19640098;15.0;4;66.776.333.199.999.900;19/04/2024;04/03/2001;Yogyakarta;
+Nicholas Cooper;Smartphone;5143884;10.0;1;4.629.495.600.000.000;11/06/2024;12/11/1997;Yogyakarta;PayPal
+ERIK WHITE;Headphones;4683491;10.0;1;4215141.9;02/08/2024;11/10/1986;Bandung;Bank Transfer
+DONALD HUFF;Smartwatch;3577396;5.0;4;13.594.104.799.999.900;19/11/2024;16/07/2000;Jakarta;Bank Transfer
+jacqueline moore;Headphones;13048065;5.0;4;49582647.0;03/03/2024;08/04/1967;;Debit Card
+michael rodriguez;Laptop;11750477;5.0;2;22325906.3;23/08/2024;25/11/2006;Bandung;Bank Transfer
+JENNIFER BURKE;Camera;16240723;15.0;5;69023072.75;24/09/2024;19/11/1988;Jakarta;Credit Card
